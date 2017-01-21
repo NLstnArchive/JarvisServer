@@ -64,7 +64,7 @@ public class Client {
 		Logger.info("Disconnecting client...", Level.LVL1);
 		messageHandler.sendMessage("/dc/");
 		connected = false;
-		uuid.returnUUID(id);
+		uuid.returnID(id);
 		messageHandler.disconnect();
 		fileHandler.disconnect();
 		Logger.info("Successfully disconnected client!", Level.LVL1);
