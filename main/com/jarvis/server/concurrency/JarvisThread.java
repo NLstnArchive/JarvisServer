@@ -1,8 +1,8 @@
 package com.jarvis.server.concurrency;
 
 import com.jarvis.server.JarvisModule;
-import com.jarvis.server.utils.Logger.Logger;
-import com.jarvis.server.utils.Logger.Logger.Level;
+import com.jarvis.server.utils.Logger;
+import com.jarvis.server.utils.Logger.Level;
 
 public class JarvisThread extends Thread {
 

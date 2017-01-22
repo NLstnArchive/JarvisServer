@@ -10,8 +10,8 @@ import java.util.List;
 
 import com.jarvis.server.JarvisServer;
 import com.jarvis.server.concurrency.JTaskBuilder;
-import com.jarvis.server.utils.Logger.Logger;
-import com.jarvis.server.utils.Logger.Logger.Level;
+import com.jarvis.server.utils.Logger;
+import com.jarvis.server.utils.Logger.Level;
 
 public class AbstractSocketHandler {
 

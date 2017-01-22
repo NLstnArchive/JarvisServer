@@ -4,6 +4,13 @@
 	<classpathentry kind="src" path="main"/>
 	<classpathentry kind="src" path="net"/>
 	<classpathentry kind="src" path="utils"/>
+	<classpathentry kind="src" path="commands"/>
+	<classpathentry kind="src" path="input"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/Jarvis/Jarvis-server/lib/tika-app-1.13.jar"/>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/Jarvis/Jarvis-server/lib/mp3magic/mp3agic-0.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/Jarvis/Jarvis-server/lib/Dropbox/dropbox-core-sdk-2.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/Jarvis/Jarvis-server/lib/Dropbox/dropbox-core-sdk-2.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/Jarvis/Jarvis-server/lib/Dropbox/jackson-core-2.7.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

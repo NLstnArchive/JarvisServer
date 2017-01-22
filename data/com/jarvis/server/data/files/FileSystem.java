@@ -5,8 +5,8 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.jarvis.server.utils.Logger.Logger;
-import com.jarvis.server.utils.Logger.Logger.Level;
+import com.jarvis.server.utils.Logger;
+import com.jarvis.server.utils.Logger.Level;
 
 public class FileSystem {
 

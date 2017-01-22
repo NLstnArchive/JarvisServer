@@ -1,4 +1,4 @@
-package com.jarvis.server.utils.Logger;
+package com.jarvis.server.utils;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

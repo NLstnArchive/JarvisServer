@@ -4,8 +4,8 @@ import java.util.concurrent.TimeUnit;
 
 import com.jarvis.server.JarvisModule;
 import com.jarvis.server.net.clients.ClientHandler;
-import com.jarvis.server.utils.Logger.Logger;
-import com.jarvis.server.utils.Logger.Logger.Level;
+import com.jarvis.server.utils.Logger;
+import com.jarvis.server.utils.Logger.Level;
 
 public class NetModule extends JarvisModule {
 

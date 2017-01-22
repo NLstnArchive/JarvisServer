@@ -1,1 +1,6 @@
 /bin/
+/.git/
+/lib/
+/.classpath
+/.gitignore
+/.project

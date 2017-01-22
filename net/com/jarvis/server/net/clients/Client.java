@@ -7,9 +7,9 @@ import com.jarvis.server.JarvisServer;
 import com.jarvis.server.concurrency.JTaskBuilder;
 import com.jarvis.server.net.clients.sockets.FileSocketHandler;
 import com.jarvis.server.net.clients.sockets.MessageSocketHandler;
-import com.jarvis.server.utils.Logger.Logger;
-import com.jarvis.server.utils.Logger.Logger.Level;
-import com.jarvis.server.utils.Logger.UUIDGenerator;
+import com.jarvis.server.utils.Logger;
+import com.jarvis.server.utils.Logger.Level;
+import com.jarvis.server.utils.UUIDGenerator;
 
 public class Client {
 

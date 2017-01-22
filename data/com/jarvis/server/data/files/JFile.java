@@ -12,8 +12,8 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Date;
 
-import com.jarvis.server.utils.Logger.Logger;
-import com.jarvis.server.utils.Logger.Logger.Level;
+import com.jarvis.server.utils.Logger;
+import com.jarvis.server.utils.Logger.Level;
 
 public class JFile {
 

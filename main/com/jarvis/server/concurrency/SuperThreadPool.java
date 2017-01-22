@@ -3,8 +3,8 @@ package com.jarvis.server.concurrency;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.jarvis.server.utils.Logger.Logger;
-import com.jarvis.server.utils.Logger.Logger.Level;
+import com.jarvis.server.utils.Logger;
+import com.jarvis.server.utils.Logger.Level;
 
 //FUTURE [SuperThreadPool][Difficult] Add categories to join e.g. all startup threads.
 public class SuperThreadPool {
